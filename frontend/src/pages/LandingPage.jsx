@@ -322,10 +322,6 @@ const LandingPage = () => {
           <Logo />
           <div className="flex flex-wrap items-center justify-center gap-x-2 gap-y-1 text-xs text-muted-foreground">
             <span>Video Editing Team Tracking System</span>
-            <span className="text-accent">•</span>
-            <span>Built with MERN Stack</span>
-            <span className="text-accent">•</span>
-            <span>Technical Assessment</span>
           </div>
         </div>
       </footer>
